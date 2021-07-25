@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Python Machine Learning By Example (3rd Edition)
-    subtitle: Your guide to B2B marketing in the real world.
+    subtitle: >-
+      Build intelligent systems using Python, TensorFlow 2, PyTorch, and
+      scikit-learn, 3rd Edition
     content: |-
       This book is your go-to guide for all marketing channels. Learn how to
       create effective landing pages, compelling ads, creative copywriting and
