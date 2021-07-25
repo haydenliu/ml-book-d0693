@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Python Machine Learning By Example (3rd Edition)
+    title: Python Machine Learning By Example
     subtitle: >-
       Build intelligent systems using Python, TensorFlow 2, PyTorch, and
       scikit-learn, 3rd Edition
