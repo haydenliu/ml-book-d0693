@@ -6,10 +6,10 @@ sections:
     subtitle: >-
       Build intelligent systems using Python, TensorFlow 2, PyTorch, and
       scikit-learn, 3rd Edition
-    content: |-
-      This book is your go-to guide for all marketing channels. Learn how to
-      create effective landing pages, compelling ads, creative copywriting and
-      converting marketing materials for any business.
+    content: >
+      A comprehensive guide to get you up to speed with the latest developments
+      of practical machine learning with Python and upgrade your understanding
+      of machine learning (ML) algorithms and techniques
     actions:
       - label: Get the book
         url: /pricing
