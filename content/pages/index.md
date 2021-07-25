@@ -17,7 +17,7 @@ sections:
         has_icon: true
         icon: arrow-right
         icon_position: right
-    image: /images/Book_Mockup_56.png
+    image: /images/book_mockup.png
     image_alt: Marketing Playbook preview
     media_position: left
     media_width: fourty
