@@ -124,8 +124,8 @@ sections:
 
           You will learn the fundamental concepts of classification, and build a
           movie recommender using Naive Bayes. It will also demonstrate how to
-          fine-tune a model, an important skill for every data science or
-          MLmachine learning practitioner.
+          fine-tune a model - an important skill for every data science or ML
+          practitioner.
       - content: >
           ### Recognizing Faces with Support Vector Machine
 
