@@ -57,14 +57,30 @@ sections:
     features:
       - title: What You Will Learn
         subtitle: How this book will teach you real world marketing
-        content: |-
-          - All you need to know about PPC
-          - How to create a brand that sells
-          - Putting together a multi-channel marketing plan
-          - Tracking, attribution and analytics
-          - Analyzing your competitors
-          - Marketing ads no one can ignore
-          - The social media of today
+        content: >
+          *   Understand the important concepts in ML and data science
+
+          *   Use Python to explore the world of data mining and analytics
+
+          *   Scale up model training using varied data complexities with Apache
+          Spark
+
+          *   Delve deep into text analysis and NLP using Python libraries such
+          NLTK and Gensim
+
+          *   Select and build an ML model and evaluate and optimize its
+          performance
+
+          *   Implement ML algorithms from scratch in Python, TensorFlow 2,
+          PyTorch, and scikit-learn
+
+          *   The social media of today
+
+
+          *
+
+
+          *
         actions:
           - label: Start learning
             url: /thank-you
