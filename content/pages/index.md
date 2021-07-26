@@ -130,9 +130,8 @@ sections:
 
 
           Support vector machine searches for a decision boundary in order to
-          separate data from different classes. Also, you will implement the
-          algorithm  =and apply it to solve various real-life problems including
-          face recognition.
+          separate data from different classes. You will implement the algorithm
+          and apply it to face recognition.
       - content: |-
           ### Content is King
 
