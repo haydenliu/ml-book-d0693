@@ -251,10 +251,9 @@ sections:
           Networks&#xA;&#xA;
 
 
-          Building blocks and architecture of CNNs, and their implementation
-          using TensorFlow. You will develop CNN models to categorize clothing
-          images, and utilize data augmentation techniques to boost the
-          classifier.
+          Building blocks and architecture of CNNs, and their implementation in
+          TensorFlow. You will categorize clothing images, and utilize data
+          augmentation techniques to boost the CNN classifier.
         content_align: left
         actions: []
         actions_align: left
