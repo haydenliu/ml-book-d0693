@@ -146,12 +146,12 @@ sections:
           Logistic regression is a very scalable classification model. You will
           use it on large datasets, learn about categorical encoding,
           regularization, online learning, and stochastic gradient descent.
-      - content: |-
-          ### Seeing What Works
+      - content: >
+          ### Scaling Up Prediction to Terabyte Click Logs
 
-          There is no shortage of analytics tools for marketing campaigns —
-          email platforms, data centers, campaign dashboards and app
-          attribution... How to choose the right tools that will work for you.
+
+          Parallel computing tools Apache Hadoop and Spark - a more scalable
+          solution to massive ad click prediction.
       - title_align: left
         content: >+
           ### Lorem ipsum
