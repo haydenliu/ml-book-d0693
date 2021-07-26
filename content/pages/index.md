@@ -342,11 +342,12 @@ sections:
           *   Data analyst and data scientist
           *   Data engineer
           *   Who's highly passionate about machine learning
-      - content: |+
+      - content: >
           #### To get the most out of this book&#xA;
 
-          You are expected to have a basic foundation of knowledge of Python
 
+          You are expected to have a basic foundation of knowledge of Python,
+          and some basic Python libraries, such as Numpy
       - {}
     grid_cols: two
     grid_gap_horiz: medium
