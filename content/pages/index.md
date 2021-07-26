@@ -146,10 +146,7 @@ sections:
 
           Logistic regression is a very scalable classification model. You will
           explore how it works, and work with large datasets. The chapter will
-          also cover
-
-
-          categorical variable encoding, L1 and L2 regularization, feature
+          also cover categorical variable encoding, regularization, feature
           selection, online learning, and stochastic gradient descent.
       - content: |-
           ### Seeing What Works
