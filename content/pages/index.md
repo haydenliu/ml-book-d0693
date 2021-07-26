@@ -272,8 +272,8 @@ sections:
 
           Sequential learning, and how RNNs are well suited for it. You will
           solve two sequential learning problems: movie review sentiment
-          analysis and text auto-generation. Transformer, a state-of-the-art
-          sequential learning model, as a bonus section.
+          analysis and text auto-generation. A state-of-the-art model,
+          Transformer, will be a bonus section.
         content_align: left
         actions: []
         actions_align: left
