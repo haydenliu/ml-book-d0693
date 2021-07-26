@@ -133,13 +133,12 @@ sections:
           data from different classes. You will implement the algorithm and
           apply it to face recognition.
       - content: >
-          ### Predicting Online Ad Click-Through with Tree-Based Algorithms&#xA;
+          ### Predicting Online Ad Click-Through with Tree-Based Algorithms
 
 
-          Tree-based model (decision trees, random forests, boosted trees)
+          Tree-based models (decision trees, random forests, boosted trees)
           throughout the course of solving the ad click-through rate problem.
-          Computing feature importance, and model ensemble will be covered
-          alongside.
+          Computing feature importance, and model ensemble will also be covered.
       - content: >
           ### Predicting Online Ad Click-Through with Logistic Regression
 
