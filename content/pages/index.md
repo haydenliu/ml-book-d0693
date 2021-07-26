@@ -153,13 +153,15 @@ sections:
           Parallel computing tools Apache Hadoop and Spark - a more scalable
           solution to massive ad click prediction.
       - title_align: left
-        content: >+
-          ### Lorem ipsum
+        content: >
+          ### Predicting Stock Prices with Regression Algorithms
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+          You will work with several popular regression algorithms, including
+          linear regression, regression tree and regression forest, and support
+          vector regression to tackle a billion (or trillion) dollar
+          problem—stock price prediction. You will practice solving regression
+          problems using scikit-learn and TensorFlow.
         content_align: left
         actions: []
         actions_align: left
