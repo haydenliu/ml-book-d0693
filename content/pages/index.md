@@ -340,7 +340,7 @@ sections:
           #### Machine Learning Enthusiast&#xA;&#xA;&#xA;
 
           *   Data analyst and data scientist
-          *   Data engineer
+          *   Data engineer, machine learning engineer, software engineer
           *   Who's highly passionate about machine learning
       - content: >
           #### To get the most out of this book&#xA;
