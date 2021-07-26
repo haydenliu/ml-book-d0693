@@ -79,9 +79,6 @@ sections:
           *   Implement ML algorithms from scratch in Python, TensorFlow 2,
           PyTorch, and scikit-learn
 
-
-          *   The social media of today
-
         actions:
           - label: Start learning
             url: /thank-you
