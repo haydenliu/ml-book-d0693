@@ -152,7 +152,7 @@ sections:
           There is no shortage of analytics tools for marketing campaigns —
           email platforms, data centers, campaign dashboards and app
           attribution... How to choose the right tools that will work for you.
-      - title: lorem-ipsum
+      - title: lorem-ipsu
         subtitle: lorem-ipsum
         title_align: left
         content: >-
