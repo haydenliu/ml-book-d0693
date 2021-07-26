@@ -129,11 +129,14 @@ sections:
           Bayes, a simple yet powerful algorithm. It will also demonstrate how
           to fine-tune a model, which is an important skill for every data
           science or machine learning practitioner to learn.
-      - content: |-
-          ### The Truth About Branding
+      - content: >
+          ### Recognizing Faces with Support Vector Machine
 
-          A brand is merely a collection of touchpoints between your company and
-          your customers. Learn how to make those interactions count.
+
+          It will discuss how the support vector machine algorithm searches for
+          a decision boundary in order to separate data from different classes.
+          Also, you will implement the algorithm with scikit-learn, and apply it
+          to solve various real-life problems including face recognition.
       - content: |-
           ### Content is King
 
