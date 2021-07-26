@@ -284,17 +284,14 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ### Making Decisions in Complex Environments with Reinforcement
+          Learning&#xA;&#xA;&#xA;
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Learning from experience, and interacting with the environment. You
+          will explore various RL environments with dynamic programming
+          algorithms, Monte Carlo learning, and Q-learning.
         content_align: left
         actions: []
         actions_align: left
