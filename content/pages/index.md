@@ -208,17 +208,20 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ### Discovering Underlying Topics in the Newsgroups Dataset with
+          Clustering and Topic Modeling
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          You will cluster the newsgroups data using the K-means algorithm, and
+          detect topics using non-negative matrix factorization and
 
-          - dolor sit amet
+
+          latent Dirichlet allocation. You will be amused by how many
+          interesting themes you are able to mine from the 20 newsgroups
+          dataset!
         content_align: left
         actions: []
         actions_align: left
