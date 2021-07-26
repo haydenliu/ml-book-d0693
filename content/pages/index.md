@@ -271,10 +271,7 @@ sections:
 
 
           Sequential learning, and how recurrent neural networks (RNNs) are well
-          suited for it. You will learn about various types of RNNs and their
-
-
-          common applications. You will implement RNNs to solve two interesting
+          suited for it. You will implement RNNs to solve two interesting
           sequential learning problems: movie review sentiment analysis and text
           auto-generation. Transformer, a state-of-the-art sequential learning
           model, as a bonus section.
