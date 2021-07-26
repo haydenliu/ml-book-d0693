@@ -336,12 +336,12 @@ sections:
   - type: grid_section
     title: Who Should Read This Book?
     grid_items:
-      - content: |-
-          #### Marketers
-           - Learn how all of the marketing pieces fit together
-           - Master digital marketing for any business
-           - Get access to marketing gurus and their tips
-           - Prepare killer presentations and collateral
+      - content: |
+          #### Machine Learning Enthusiast&#xA;&#xA;&#xA;
+
+          *   Data analyst and data scientist
+          *   Data engineer
+          *   Who's highly passionate about machine learning
       - content: |-
           #### Designers
            - Gain big picture insights that affect design
