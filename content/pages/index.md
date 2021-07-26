@@ -213,9 +213,9 @@ sections:
           Clustering and Topic Modeling
 
 
-          Using the K-means algorithm, matrix factorization and latent Dirichlet
-          allocation, you will be amused by how many interesting themes you are
-          able to mine from the 20 newsgroups dataset!
+          Using K-means algorithm, matrix factorization and latent Dirichlet
+          allocation, you will be amused by how many interesting themes are
+          mined from the 20 newsgroups dataset!
         content_align: left
         actions: []
         actions_align: left
