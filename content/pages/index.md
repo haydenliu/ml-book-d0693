@@ -158,9 +158,8 @@ sections:
 
 
           Several popular regression algorithms, including linear regression,
-          regression tree and regression forest, and support vector regression
-          for you to tackle a billion (or trillion) dollar problem—stock price
-          prediction.
+          regression tree, and support vector regression for you to tackle a
+          billion (or trillion) dollar problem - stock price prediction.
         content_align: left
         actions: []
         actions_align: left
