@@ -199,8 +199,8 @@ sections:
 
 
           You will gain hands-on experience in neural language processing
-          through working with text data, and visualize text data using a
-          dimension reduction technique.
+          through working with text data, and visualize text data using
+          dimension reduction techniques.
         content_align: left
         actions: []
         actions_align: left
