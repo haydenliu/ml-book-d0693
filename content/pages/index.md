@@ -227,17 +227,14 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ### Machine Learning Best Practices
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          Get ready for real-world projects and follow 21 best practices
+          throughout the entire machine learning workflow.
         content_align: left
         actions: []
         actions_align: left
