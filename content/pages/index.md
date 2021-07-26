@@ -132,12 +132,30 @@ sections:
           Support vector machine searches for a decision boundary to separate
           data from different classes. You will implement the algorithm and
           apply it to face recognition.
-      - content: |-
-          ### Content is King
+      - content: >
+          ### Predicting Online Ad Click-Through with Tree-Based Algorithms&#xA;
 
-          What you should be writing about, where it should be published, who
-          should read it, and what difference does it make. A comprehensive
-          guide to content marketing.
+
+          Tree-based algorithms (including decision trees,
+
+
+          random forests, and boosted trees) throughout the course of solving
+          the advertising
+
+
+          click-through rate problem. You will explore decision trees from the
+          root to the
+
+
+          leaves, and work on implementations of tree models from scratch, using
+          scikit-learn
+
+
+          and XGBoost. Feature importance, feature selection, and ensemble will
+          be covered
+
+
+          alongside.
       - content: >-
           ### Social Media
 
