@@ -116,11 +116,10 @@ sections:
           ### Getting Started with Machine Learning and Python
 
 
-          What machine learning is, why we need it. You will explore typical
-          machine learning tasks and essential techniques of working with data
-          and working with models, in a practical and fun way. You will also set
-          up the software and tools needed for examples and projects in the
-          upcoming chapters.
+          What machine learning is? Why we need it? You will explore typical ML
+          tasks and essential techniques of working with data and working with
+          models. You will also set up the software and tools needed for
+          projects in the upcoming chapters.
       - content: >
           ### Building a Movie Recommendation Engine with Naive Bayes
 
