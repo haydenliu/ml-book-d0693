@@ -270,11 +270,10 @@ sections:
           Networks&#xA;&#xA;&#xA;
 
 
-          Sequential learning, and how recurrent neural networks (RNNs) are well
-          suited for it. You will implement RNNs to solve two interesting
-          sequential learning problems: movie review sentiment analysis and text
-          auto-generation. Transformer, a state-of-the-art sequential learning
-          model, as a bonus section.
+          Sequential learning, and how RNNs are well suited for it. You will
+          solve two sequential learning problems: movie review sentiment
+          analysis and text auto-generation. Transformer, a state-of-the-art
+          sequential learning model, as a bonus section.
         content_align: left
         actions: []
         actions_align: left
