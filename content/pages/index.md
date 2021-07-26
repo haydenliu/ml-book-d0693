@@ -86,7 +86,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/book-inside.png
+        image: /images/Free_Book_Mockup_5.png
         image_alt: Look inside Marketing Playbook
         media_position: right
         media_width: fifty
