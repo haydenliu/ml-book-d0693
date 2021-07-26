@@ -123,9 +123,8 @@ sections:
 
 
           You will learn the fundamental concepts of classification, and Naive
-          Bayes, a simple yet powerful algorithm. It will also demonstrate how
-          to fine-tune a model, which is an important skill for every data
-          science or machine learning practitioner to learn.
+          Bayes. It will also demonstrate how to fine-tune a model, an important
+          skill for every data science or machine learning practitioner.
       - content: >
           ### Recognizing Faces with Support Vector Machine
 
