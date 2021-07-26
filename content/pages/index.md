@@ -342,12 +342,11 @@ sections:
           *   Data analyst and data scientist
           *   Data engineer
           *   Who's highly passionate about machine learning
-      - content: |-
-          #### Designers
-           - Gain big picture insights that affect design
-           - Learn how your design can inspire action
-           - Make advertisements that convert
-           - Create digital assets for the right audience
+      - content: |+
+          #### To get the most out of this book&#xA;
+
+          You are expected to have a basic foundation of knowledge of Python
+
       - content: |-
           #### Business owners
            - Kickstart your marketing plan and efforts
