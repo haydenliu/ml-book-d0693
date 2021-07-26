@@ -140,13 +140,17 @@ sections:
           throughout the course of solving the advertising click-through rate
           problem. Computing feature importance, and model ensemble will be
           covered alongside.
-      - content: >-
-          ### Social Media
+      - content: >
+          ### Predicting Online Ad Click-Through with Logistic Regression
 
 
-          Google, Facebook, TikTok, LinkedIn — what should you use, and how? And
-          how do you know that it's actually working? Build a social media
-          strategy like a pro.
+          Logistic regression is a very scalable classification model. You will
+          explore how it works, and work with large datasets. The chapter will
+          also cover
+
+
+          categorical variable encoding, L1 and L2 regularization, feature
+          selection, online learning, and stochastic gradient descent.
       - content: |-
           ### Seeing What Works
 
