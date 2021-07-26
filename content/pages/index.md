@@ -347,8 +347,6 @@ sections:
 
           You are expected to have a basic foundation of knowledge of Python
 
-      - content: |
-          *
       - content: |-
           #### Product managers
            - Understand the context of your product work
