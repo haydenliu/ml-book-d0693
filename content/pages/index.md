@@ -246,17 +246,15 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ### Categorizing Images of Clothing with Convolutional Neural
+          Networks&#xA;&#xA;
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Building blocks and architecture of CNNs, and their implementation
+          using TensorFlow. You will develop CNN models to categorize clothing
+          images, and utilize data augmentation techniques to boost the
+          classifier.
         content_align: left
         actions: []
         actions_align: left
