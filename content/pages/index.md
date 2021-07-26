@@ -136,10 +136,10 @@ sections:
           ### Predicting Online Ad Click-Through with Tree-Based Algorithms&#xA;
 
 
-          Tree-based algorithms (including decision trees, random forests, and
-          boosted trees) throughout the course of solving the advertising
-          click-through rate problem. Computing feature importance, and model
-          ensemble will be covered alongside.
+          Tree-based algorithms (decision trees, random forests, boosted trees)
+          throughout the course of solving the advertising click-through rate
+          problem. Computing feature importance, and model ensemble will be
+          covered alongside.
       - content: >-
           ### Social Media
 
