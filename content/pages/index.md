@@ -347,8 +347,7 @@ sections:
 
           You are expected to have a basic foundation of knowledge of Python
 
-      - content: |
-          *
+      - {}
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
