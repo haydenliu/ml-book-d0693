@@ -138,9 +138,7 @@ sections:
 
           Tree-based algorithms (including decision trees, random forests, and
           boosted trees) throughout the course of solving the advertising
-
-
-          click-through rate problem. Feature importance, feature selection, and
+          click-through rate problem. Computing feature importance, and model
           ensemble will be covered alongside.
       - content: >-
           ### Social Media
