@@ -193,17 +193,14 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ### Mining the 20 Newsgroups Dataset with Text Analysis
+          Techniques&#xA;
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          You will gain hands-on experience in neural language processing
+          through working with text data, and visualize text data using a
+          dimension reduction technique.
         content_align: left
         actions: []
         actions_align: left
