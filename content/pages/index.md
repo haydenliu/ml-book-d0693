@@ -119,12 +119,14 @@ sections:
           You will explore typical machine learning tasks and essential
           techniques of working with data and working with models, in a
           practical and fun way. 
-      - content: >-
-          ### Performance Marketing
+      - content: >
+          ### Building a Movie Recommendation Engine with Naive Bayes
 
 
-          Know your PPC from your CPA and CTR — a quick start guide to
-          performance marketing channels, setups, budgeting and creative.
+          You will learn the fundamental concepts of classification, and Naive
+          Bayes, a simple yet powerful algorithm. It will also demonstrate how
+          to fine-tune a model, which is an important skill for every data
+          science or machine learning practitioner to learn.
       - content: |-
           ### The Truth About Branding
 
