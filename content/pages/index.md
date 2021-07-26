@@ -157,11 +157,10 @@ sections:
           ### Predicting Stock Prices with Regression Algorithms
 
 
-          You will work with several popular regression algorithms, including
-          linear regression, regression tree and regression forest, and support
-          vector regression to tackle a billion (or trillion) dollar
-          problem—stock price prediction. You will practice solving regression
-          problems using scikit-learn and TensorFlow.
+          Several popular regression algorithms, including linear regression,
+          regression tree and regression forest, and support vector regression
+          for you to tackle a billion (or trillion) dollar problem—stock price
+          prediction.
         content_align: left
         actions: []
         actions_align: left
