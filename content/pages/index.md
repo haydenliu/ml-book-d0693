@@ -347,12 +347,8 @@ sections:
 
           You are expected to have a basic foundation of knowledge of Python
 
-      - content: |-
-          #### Product managers
-           - Understand the context of your product work
-           - Learn how to segment your audience properly
-           - Implement brand voice and style in your work
-           - Connect top of funnel activities with your flow
+      - content: |
+          *
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
