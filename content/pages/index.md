@@ -56,7 +56,7 @@ sections:
   - type: features_section
     features:
       - title: What You Will Learn
-        subtitle: How this book will teach you real world marketing
+        subtitle: A comprehensive gateway into the world of ML
         content: >+
           *   Understand the important concepts in ML and data science
 
