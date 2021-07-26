@@ -112,11 +112,16 @@ sections:
   - type: grid_section
     title: Full Chapter  Overview
     grid_items:
-      - content: |
+      - content: >
           ### Getting Started with Machine Learning and Python
 
-          Discovery, research and pure intuition: How to slice and dice all the
-          information you can gather about your customers.
+
+          What machine learning is, why we need it, and its evolution over the
+          last few decades. It will then discuss typical machine learning tasks
+          and explore several essential techniques of working with data and
+          working with models, in a practical and fun way. You will also set up
+          the software and tools needed for examples and projects in the
+          upcoming chapters.
       - content: >-
           ### Performance Marketing
 
