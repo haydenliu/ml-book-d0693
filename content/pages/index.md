@@ -153,7 +153,6 @@ sections:
           email platforms, data centers, campaign dashboards and app
           attribution... How to choose the right tools that will work for you.
       - title: lorem-ipsu
-        subtitle: lorem-ipsu
         title_align: left
         content: >-
           ## Lorem ipsum
