@@ -138,7 +138,7 @@ sections:
 
           Tree-based models (decision trees, random forests, boosted trees)
           throughout the course of solving the ad click-through rate problem.
-          Computing feature importance, and model ensemble will also be covered.
+          Feature importance, and model ensemble will also be covered.
       - content: >
           ### Predicting Online Ad Click-Through with Logistic Regression
 
