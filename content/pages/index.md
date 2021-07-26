@@ -118,8 +118,7 @@ sections:
 
           You will explore typical machine learning tasks and essential
           techniques of working with data and working with models, in a
-          practical and fun way. You will also set up the software and tools
-          needed for examples and projects in the upcoming chapters.
+          practical and fun way. 
       - content: >-
           ### Performance Marketing
 
