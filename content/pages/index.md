@@ -347,12 +347,8 @@ sections:
 
           You are expected to have a basic foundation of knowledge of Python
 
-      - content: |-
-          #### Business owners
-           - Kickstart your marketing plan and efforts
-           - Upgrade your brand, website and social media
-           - Prepare effective collateral for your business
-           - Start advertising your company online
+      - content: |
+          *
       - content: |-
           #### Product managers
            - Understand the context of your product work
