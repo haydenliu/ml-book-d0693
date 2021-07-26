@@ -129,9 +129,9 @@ sections:
           ### Recognizing Faces with Support Vector Machine
 
 
-          Support vector machine searches for a decision boundary in order to
-          separate data from different classes. You will implement the algorithm
-          and apply it to face recognition.
+          Support vector machine searches for a decision boundary to separate
+          data from different classes. You will implement the algorithm and
+          apply it to face recognition.
       - content: |-
           ### Content is King
 
