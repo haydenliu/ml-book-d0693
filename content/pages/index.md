@@ -32,7 +32,7 @@ sections:
       - image: /images/Screen Shot 2021-07-26 at 11.03.46 PM.png
         image_alt: Logo 1
         image_align: center
-      - title: lorem-ipsum
+      - title: Good book if you want to get right to it
         subtitle: lorem-ipsum
         title_align: left
         content: >-
