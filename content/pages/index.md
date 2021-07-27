@@ -35,8 +35,7 @@ sections:
       - image: /images/Screen Shot 2021-07-26 at 11.09.22 PM.png
         image_alt: Logo 2
         image_align: center
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content: >
           ## Lorem ipsum
