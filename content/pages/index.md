@@ -85,7 +85,7 @@ sections:
       - image: images/logo-4.svg
         image_alt: Logo 4
         image_align: center
-      - image: images/logo-5.svg
+      - image: /images/Screen Shot 2021-07-26 at 11.09.22 PM.png
         image_alt: Logo 5
         image_align: center
       - image: images/logo-6.svg
