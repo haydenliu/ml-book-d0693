@@ -96,7 +96,18 @@ sections:
   - type: features_section
     features:
       - title: About the Author
-        subtitle: 'Hilary Ouse, Sr. Marketing Manager at Company'
+        subtitle: >-
+          About the Author Yuxi (Hayden) Liu is a machine learning software
+          engineer at Google. Previously he worked as a machine learning
+          scientist in a variety of data-driven domains and applied his machine
+          learning expertise in computational advertising, marketing, and
+          cybersecurity. Hayden is the author of a series of machine learning
+          books and an education enthusiast. His first book, the first edition
+          of Python Machine Learning By Example, was ranked the #1 bestseller in
+          its category on Amazon in 2017 and 2018 and was translated into many
+          languages. His other books include R Deep Learning Projects, Hands-On
+          Deep Learning Architectures with Python, and PyTorch 1.x Reinforcement
+          Learning Cookbook.
         image: /images/profile.png
         image_alt: Brandon Guidelines
         media_position: left
