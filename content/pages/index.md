@@ -32,31 +32,6 @@ sections:
       - image: /images/Screen Shot 2021-07-26 at 11.03.46 PM.png
         image_alt: Logo 1
         image_align: center
-      - title: Good book if you want to get right to it
-        subtitle: 'United States on December 1, 2020'
-        title_align: left
-        content: >
-          The book is a great practical resource for those interested in
-          applying ML techniques quickly. As other reviewers have mentioned, it
-          is a bit light on theory and the more technical aspects of ML until
-          you get deeper into the book. Having said that, the examples and code
-          provided are very practical and to the point. I would recommend it if
-          you are either already familiar with basic ML theory and the math
-          behind it or if you have a software engineering background and are
-          simply looking to quickly implement an ML solution. The author walks
-          you through code segments and explains each step and by the end, you
-          will have covered most of the more popular ML models and know which
-          ones to use given your data and your goals.
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
       - subtitle: lorem-ipsum
         title_align: left
         content: >
