@@ -32,7 +32,7 @@ sections:
       - image: /images/Screen Shot 2021-07-26 at 11.03.46 PM.png
         image_alt: Logo 1
         image_align: center
-      - image: images/logo-2.svg
+      - image: /images/Screen Shot 2021-07-26 at 11.09.22 PM.png
         image_alt: Logo 2
         image_align: center
       - image: images/logo-3.svg
