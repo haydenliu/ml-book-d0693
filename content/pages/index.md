@@ -33,15 +33,6 @@ sections:
         image_alt: Logo 1
         image_align: center
       - title_align: left
-        content: >
-          ##### Great book
-
-
-          United Kingdom on June 18, 2021
-
-
-          The concepts are explained clearly and step by step. Machine learning
-          is not an easy topic, I find that this book is really helpful
         content_align: left
         actions: []
         actions_align: left
