@@ -57,8 +57,6 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - image_alt: Logo 2
-        image_align: center
       - subtitle: lorem-ipsum
         title_align: left
         content: >
