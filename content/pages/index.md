@@ -33,7 +33,7 @@ sections:
         image_alt: Logo 1
         image_align: center
       - title: Good book if you want to get right to it
-        subtitle: lorem-ipsum
+        subtitle: 'United States on December 1, 2020'
         title_align: left
         content: >-
           ## Lorem ipsum
