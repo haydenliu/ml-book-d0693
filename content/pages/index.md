@@ -29,7 +29,7 @@ sections:
     title: 'What Readers Say:'
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: /images/Screen Shot 2021-07-26 at 11.03.46 PM.png
         image_alt: Logo 1
         image_align: center
       - image: images/logo-2.svg
