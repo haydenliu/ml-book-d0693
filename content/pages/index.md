@@ -26,7 +26,7 @@ sections:
     padding_bottom: large
     background_color: none
   - type: grid_section
-    title: 'What Global Readers Said:'
+    title: 'What Readers Say:'
     align: center
     grid_items:
       - image: images/logo-1.svg
