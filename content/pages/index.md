@@ -38,7 +38,10 @@ sections:
       - subtitle: lorem-ipsum
         title_align: left
         content: >
-          ## Lorem ipsum
+          ##### Great book
+
+
+          United Kingdom on June 18, 2021
 
 
           The concepts are explained clearly and step by step. Machine learning
