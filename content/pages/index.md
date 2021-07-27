@@ -95,9 +95,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: |-
-          “This book is inspiring and practical. It’s thought-provoking and full
-          of examples which definitely motivates me”
+      - title: About the Author
         subtitle: 'Hilary Ouse, Sr. Marketing Manager at Company'
         image: /images/profile.png
         image_alt: Brandon Guidelines
