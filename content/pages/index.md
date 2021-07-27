@@ -26,7 +26,7 @@ sections:
     padding_bottom: large
     background_color: none
   - type: grid_section
-    title: 'What Readers Say:'
+    title: 'What Amazon Readers Say:'
     align: center
     grid_items:
       - image: /images/Screen Shot 2021-07-26 at 11.03.46 PM.png
