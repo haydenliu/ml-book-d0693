@@ -29,7 +29,7 @@ sections:
     title: 'What Amazon Readers Say:'
     align: center
     grid_items:
-      - image: /images/marvelous-oregano.png
+      - image: /images/robust-amaranth.png
         image_alt: Logo 1
         image_align: center
       - title_align: left
