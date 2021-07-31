@@ -43,7 +43,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: /images/Screen Shot 2021-07-26 at 11.12.51 PM.png
+        image: /images/review2.png
       - title_align: left
         content_align: left
         actions: []
