@@ -380,7 +380,7 @@ sections:
         url: >-
           https://www.packtpub.com/product/python-machine-learning-by-example-third-edition/9781800209718
         style: primary
-      - label: Amazon
+      - label: Amazon.com
         url: '#'
         style: primary
         has_icon: false
