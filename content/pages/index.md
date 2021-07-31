@@ -358,15 +358,10 @@ sections:
       - title: What’s Inside
         subtitle: 'Brandon Guidelines, Marketing Guru'
         content: >
-
-
           > **Python Machine Learning by Example, Third Edition is ideal for
           those who learn best by doing. I think for the ML beginner, this book
           may be a better starting point than one with much more about theory
           and less focus on the practical aspects of ML."**
-
-
-          \--
 
 
           Alex Martelli, Fellow, Python Software Foundation, Co-author of Python
