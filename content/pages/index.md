@@ -32,8 +32,7 @@ sections:
       - image: /images/review1.png
         image_alt: Logo 1
         image_align: center
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >-
           ## Lorem ipsum
 
