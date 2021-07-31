@@ -43,7 +43,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: /images/review2 (2).png
+        image: /images/scientific-sloth.png
       - title_align: left
         content_align: left
         actions: []
