@@ -381,7 +381,8 @@ sections:
           https://www.packtpub.com/product/python-machine-learning-by-example-third-edition/9781800209718
         style: primary
       - label: Amazon.com
-        url: '#'
+        url: >-
+          https://www.amazon.com/gp/product/1800209711/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1800209711&linkCode=as2&tag=learnmlbyexam-20&linkId=cc86814e44f3cb14f7a160c25e5a91de
         style: primary
         has_icon: false
         icon: arrow-left
