@@ -12,7 +12,8 @@ sections:
       of machine learning (ML) algorithms and techniques
     actions:
       - label: Get the book
-        url: /pricing
+        url: >-
+          https://www.amazon.com/gp/product/B08L5F921H/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08L5F921H&linkCode=as2&tag=learnmlbyexam-20&linkId=570051c7ff0f6f30ed63cdfef86522f1
         style: primary
         has_icon: true
         icon: arrow-right
