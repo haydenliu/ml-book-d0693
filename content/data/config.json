@@ -78,7 +78,7 @@
         "social_links": [
             {
                 "label": "GitHub",
-                "url": "https://github.com/",
+                "url": "https://github.com/PacktPublishing/Python-Machine-Learning-By-Example-Third-Edition",
                 "style": "link",
                 "has_icon": true,
                 "icon": "github",
