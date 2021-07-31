@@ -357,23 +357,27 @@ sections:
     features:
       - title: What’s Inside
         subtitle: 'Brandon Guidelines, Marketing Guru'
-        content: |-
+        content: >
           **Marketing in the real world** is very different than what we learn
+
           at school. If you've recently graduated and are making your first
+
           steps in the business, it's imperative that you know how to use the
+
           tools and tricks of the trade.
 
 
-          > **The world of marketing has changed dramatically in the last 10
-          years. Those who understand it, will succeed. But those who stay
-          behind, will have a lot to catch up on.”**
+          > Python Machine Learning by Example, Third Edition is ideal for those
+          who learn best by doing. I think for the ML beginner, this book may be
+          a better starting point than one with much more about theory and less
+          focus on the practical aspects of ML."
 
 
-          In this book I will teach you everything I know about B2B marketing.
-          From branding, marketing planning, content creation, SEO and PPC, to
-          segmenting your audience and understanding today's metrics and
-          analytics methodologies — this guide is the only marketing education
-          you'll ever need.
+
+           
+
+          **Alex Martelli, Fellow, Python Software Foundation, Co-author of
+          Python Cookbook and Python in a Nutshell**
         image: images/brandon-guidelines.jpg
         image_alt: Brandon Guidelines Photo
         media_position: right
