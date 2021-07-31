@@ -29,7 +29,7 @@ sections:
     title: 'What Amazon Readers Say:'
     align: center
     grid_items:
-      - image: /images/review1.png
+      - image: /images/review1 (1).png
         image_alt: Logo 1
         image_align: center
       - title_align: left
