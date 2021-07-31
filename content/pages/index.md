@@ -356,7 +356,6 @@ sections:
   - type: features_section
     features:
       - title: Endorsement
-        subtitle: 'Brandon Guidelines, Marketing Guru'
         content: >
           > **Python Machine Learning by Example, Third Edition is ideal for
           those who learn best by doing. I think for the ML beginner, this book
