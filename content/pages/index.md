@@ -374,7 +374,7 @@ sections:
     align: center
     background_color: none
   - type: cta_section
-    title: Get the book and start learning today
+    title: Get the book and start learning
     actions:
       - label: Packt
         url: >-
