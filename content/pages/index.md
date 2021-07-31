@@ -377,7 +377,8 @@ sections:
     title: Start learning today
     actions:
       - label: Packt
-        url: /pricing
+        url: >-
+          https://www.packtpub.com/product/python-machine-learning-by-example-third-edition/9781800209718
         style: primary
       - label: lorem-ipsum
         url: '#'
