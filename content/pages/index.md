@@ -29,7 +29,7 @@ sections:
     title: 'What Amazon Readers Say:'
     align: center
     grid_items:
-      - image: /images/Screen Shot 2021-07-26 at 11.03.46 PM.png
+      - image: /images/review1.png
         image_alt: Logo 1
         image_align: center
       - subtitle: lorem-ipsum
