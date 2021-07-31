@@ -5,7 +5,7 @@ sections:
     title: 'Python Machine Learning By Example, 3rd Edition'
     subtitle: >-
       Build intelligent systems using Python, TensorFlow 2, PyTorch, and
-      scikit-learn, 3rd Edition
+      scikit-learn
     content: >
       A comprehensive guide to get you up to speed with the latest developments
       of practical machine learning with Python and upgrade your understanding
