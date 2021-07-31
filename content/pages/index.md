@@ -376,7 +376,7 @@ sections:
   - type: cta_section
     title: Start learning today
     actions:
-      - label: Get the e-book
+      - label: Pack
         url: /pricing
         style: primary
       - label: lorem-ipsum
