@@ -355,7 +355,7 @@ sections:
     background_image_opacity: 10
   - type: features_section
     features:
-      - title: Endorsements from guru
+      - title: Endorsements from Guru
         content: >
           > **Python Machine Learning by Example, Third Edition is ideal for
           those who learn best by doing. I think for the ML beginner, this book
