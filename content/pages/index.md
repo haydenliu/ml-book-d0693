@@ -378,7 +378,6 @@ sections:
 
           **Alex Martelli, Fellow, Python Software Foundation, Co-author of
           Python Cookbook and Python in a Nutshell**
-        image: images/brandon-guidelines.jpg
         image_alt: Brandon Guidelines Photo
         media_position: right
         media_width: fourty
