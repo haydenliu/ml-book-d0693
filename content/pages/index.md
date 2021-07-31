@@ -29,7 +29,7 @@ sections:
     title: 'What Amazon Readers Say:'
     align: center
     grid_items:
-      - image: /images/robust-amaranth.png
+      - image: /images/happy-paprika.png
         image_alt: Logo 1
         image_align: center
       - title_align: left
