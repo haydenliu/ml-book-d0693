@@ -390,7 +390,8 @@ sections:
         no_follow: false
         type: action
       - label: lorem-ipsum
-        url: '#'
+        url: >-
+          https://www.oreilly.com/library/view/python-machine-learning/9781800209718/
         style: primary
         has_icon: false
         icon: arrow-left
