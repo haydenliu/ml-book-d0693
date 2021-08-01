@@ -419,7 +419,9 @@ seo:
       value: Stackbit Book Theme
       keyName: property
     - name: 'og:description'
-      value: The preview of the Book theme
+      value: >-
+        Build intelligent systems using Python, TensorFlow 2, PyTorch, and
+        scikit-learn. 
       keyName: property
     - name: 'og:image'
       value: images/book-preview.png
