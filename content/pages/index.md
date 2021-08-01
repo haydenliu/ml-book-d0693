@@ -416,7 +416,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Python Machine Learning By Example
+      value: 'Python Machine Learning By Example, Third Edition'
       keyName: property
     - name: 'og:description'
       value: >-
