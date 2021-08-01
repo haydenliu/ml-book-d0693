@@ -407,7 +407,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
 seo:
-  title: Python Machine Learning By Example
+  title: 'Python Machine Learning By Example, Third Edition'
   description: >-
     Build intelligent systems using Python, TensorFlow 2, PyTorch, and
     scikit-learn. 
