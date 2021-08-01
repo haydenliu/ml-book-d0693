@@ -49,7 +49,7 @@ sections:
     grid_cols: two
     grid_gap_horiz: small
     grid_gap_vert: small
-    background_color: secondary
+    background_color: primary
     has_border: false
   - type: features_section
     features:
