@@ -48,9 +48,6 @@ sections:
         image: /images/pink-goat.png
       - image_alt: Logo 4
         image_align: center
-      - image_alt: Logo 5
-        image_align: center
-        actions: []
     grid_cols: two
     grid_gap_horiz: small
     grid_gap_vert: medium
