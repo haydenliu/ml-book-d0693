@@ -66,7 +66,7 @@ sections:
       - image_alt: Logo 6
         image_align: center
     grid_cols: two
-    grid_gap_horiz: large
+    grid_gap_horiz: small
     grid_gap_vert: medium
   - type: features_section
     features:
