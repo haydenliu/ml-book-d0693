@@ -59,7 +59,7 @@
         "secondary_nav_title": "Contact",
         "secondary_nav_links": [
             {
-                "label": "Terms & Conditions",
+                "label": "Email",
                 "url": "/terms-conditions",
                 "style": "link"
             },
