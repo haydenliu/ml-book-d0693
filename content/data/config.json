@@ -85,7 +85,8 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Hayden Liu. All rights reserved."
+        "content": "&copy; Hayden Liu. All rights reserved.",
+        "logo": "/images/wonderful-oregano.png"
     },
     "announcement": {
         "has_anncmnt": true,
