@@ -35,6 +35,7 @@ sections:
         image_alt: Logo 1
         image_align: center
         actions: []
+        image_width: sixty
       - title_align: left
         content_align: left
         actions: []
