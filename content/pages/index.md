@@ -46,8 +46,6 @@ sections:
         image_has_padding: false
         type: grid_item
         image: /images/pink-goat.png
-      - image_alt: Logo 4
-        image_align: center
     grid_cols: two
     grid_gap_horiz: small
     grid_gap_vert: medium
