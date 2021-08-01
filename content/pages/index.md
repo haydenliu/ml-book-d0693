@@ -387,7 +387,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Amazon kindle in your country
+      - label: Amazon Kindle in your country
         url: >-
           https://www.amazon.com/gp/product/B08L5F921H/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08L5F921H&linkCode=as2&tag=learnmlbyexam-20&linkId=090781e61c845c9047859c036b00a5ac
         style: primary
