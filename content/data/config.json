@@ -45,7 +45,7 @@
         "primary_nav_title": "About",
         "primary_nav_links": [
             {
-                "label": "Hayden",
+                "label": "Hayden the author",
                 "url": "/story",
                 "style": "link"
             },
