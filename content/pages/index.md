@@ -48,7 +48,7 @@ sections:
         image: /images/pink-goat.png
     grid_cols: two
     grid_gap_horiz: small
-    grid_gap_vert: medium
+    grid_gap_vert: small
     background_color: secondary
   - type: features_section
     features:
