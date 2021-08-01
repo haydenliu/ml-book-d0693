@@ -67,7 +67,7 @@ sections:
         image_align: center
     grid_cols: two
     grid_gap_horiz: medium
-    grid_gap_vert: medium
+    grid_gap_vert: large
   - type: features_section
     features:
       - title: What You Will Learn
