@@ -362,7 +362,7 @@ sections:
   - type: cta_section
     title: 'Get the book, start learning'
     actions:
-      - label: 'Packt, the publisher'
+      - label: Packt
         url: >-
           https://www.packtpub.com/product/python-machine-learning-by-example-third-edition/9781800209718
         style: primary
