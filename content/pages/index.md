@@ -410,7 +410,9 @@ seo:
   title: Python Machine Learning By Example
   description: >-
     Build intelligent systems using Python, TensorFlow 2, PyTorch, and
-    scikit-learn
+    scikit-learn. A comprehensive guide to get you up to speed with the latest
+    developments of practical machine learning with Python and upgrade your
+    understanding of machine learning (ML) algorithms and techniques.
   extra:
     - name: 'og:type'
       value: website
