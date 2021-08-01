@@ -408,7 +408,9 @@ sections:
     background_image_opacity: 10
 seo:
   title: Python Machine Learning By Example
-  description: The preview of the Book theme
+  description: >-
+    Build intelligent systems using Python, TensorFlow 2, PyTorch, and
+    scikit-learn
   extra:
     - name: 'og:type'
       value: website
