@@ -50,6 +50,7 @@ sections:
     grid_gap_horiz: small
     grid_gap_vert: small
     background_color: secondary
+    has_border: true
   - type: features_section
     features:
       - title: What You Will Learn
