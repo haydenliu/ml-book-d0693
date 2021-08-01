@@ -60,7 +60,7 @@
         "secondary_nav_links": [
             {
                 "label": "Email",
-                "url": "mlbookhayden@gmail.com",
+                "url": "mailto:mlbookhayden@gmail.com",
                 "style": "link"
             },
             {
