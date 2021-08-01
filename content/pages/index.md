@@ -51,8 +51,6 @@ sections:
       - image_alt: Logo 5
         image_align: center
         actions: []
-      - image_alt: Logo 6
-        image_align: center
     grid_cols: two
     grid_gap_horiz: small
     grid_gap_vert: medium
