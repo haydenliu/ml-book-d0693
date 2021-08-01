@@ -424,7 +424,7 @@ seo:
         scikit-learn. 
       keyName: property
     - name: 'og:image'
-      value: images/book-preview.png
+      value: /images/Screen Shot 2021-07-31 at 11.26.04 PM.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
