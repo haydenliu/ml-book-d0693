@@ -46,17 +46,6 @@ sections:
         image_has_padding: false
         type: grid_item
         image: /images/pink-goat.png
-      - title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
       - image_alt: Logo 3
         image_align: center
       - image_alt: Logo 4
