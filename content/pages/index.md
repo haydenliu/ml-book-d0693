@@ -390,7 +390,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: lorem-ipsum
+      - label: O’Reilly
         url: '#'
         style: primary
         has_icon: false
