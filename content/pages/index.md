@@ -416,7 +416,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Book Theme
+      value: Python Machine Learning By Example
       keyName: property
     - name: 'og:description'
       value: >-
