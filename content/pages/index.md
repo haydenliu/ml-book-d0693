@@ -436,7 +436,7 @@ seo:
         Build intelligent systems using Python, TensorFlow 2, PyTorch, and
         scikit-learn. 
     - name: 'twitter:image'
-      value: images/book-preview.png
+      value: /images/Screen Shot 2021-07-31 at 11.26.04 PM.png
       relativeUrl: true
 layout: advanced
 ---
