@@ -432,7 +432,9 @@ seo:
     - name: 'twitter:title'
       value: Python Machine Learning By Example
     - name: 'twitter:description'
-      value: The preview of the Book theme
+      value: >-
+        Build intelligent systems using Python, TensorFlow 2, PyTorch, and
+        scikit-learn. 
     - name: 'twitter:image'
       value: images/book-preview.png
       relativeUrl: true
