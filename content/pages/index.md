@@ -430,7 +430,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Book Theme
+      value: Python Machine Learning By Example
     - name: 'twitter:description'
       value: The preview of the Book theme
     - name: 'twitter:image'
