@@ -13,7 +13,7 @@ sections:
     actions:
       - label: Get the book
         url: >-
-          “https://www.amazon.com/gp/product/1800209711/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1800209711&linkCode=as2&tag=learnmlbyex0c-20&linkId=3eb2ee28ec5c310af79abe03d4534a50”
+          https://www.amazon.com/gp/product/1800209711/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1800209711&linkCode=as2&tag=learnmlbyex0c-20&linkId=3eb2ee28ec5c310af79abe03d4534a50
         style: primary
         has_icon: true
         icon: arrow-right
