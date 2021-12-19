@@ -369,7 +369,7 @@ sections:
         new_window: true
       - label: Amazon in your country
         url: >-
-          https://www.amazon.com/gp/product/1800209711/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1800209711&linkCode=as2&tag=learnmlbyex0c-20&linkId=3eb2ee28ec5c310af79abe03d4534a50
+          https://www.amazon.com/gp/product/1800209711/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1800209711&linkCode=as2&tag=mlexample-20&linkId=a257afdf78f68cf348200b1feb1ad420
         style: primary
         has_icon: false
         icon: arrow-left
